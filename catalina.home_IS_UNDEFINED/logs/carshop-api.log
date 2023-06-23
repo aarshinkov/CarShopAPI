@@ -1,0 +1,28 @@
+2023-06-23 11:40:58.343 CarShopAPI | INFO  | CarShopApiApplicationTests (55) - Starting CarShopApiApplicationTests using Java 1.8.0_271 on SBCPLDAR-2KL136 with PID 1796 (started by atanas.arshinkov in C:\Users\atanas.arshinkov\Desktop\carshop-api)
+2023-06-23 11:40:58.343 CarShopAPI | DEBUG | CarShopApiApplicationTests (56) - Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-23 11:40:58.346 CarShopAPI | INFO  | CarShopApiApplicationTests (631) - No active profile set, falling back to 1 default profile: "default"
+2023-06-23 11:41:00.897 CarShopAPI | INFO  | CarShopApiApplicationTests (61) - Started CarShopApiApplicationTests in 2.866 seconds (JVM running for 4.032)
+2023-06-23 11:46:45.954 CarShopAPI | INFO  | CarShopApiApplicationTests (55) - Starting CarShopApiApplicationTests using Java 1.8.0_271 on SBCPLDAR-2KL136 with PID 6268 (started by atanas.arshinkov in C:\Users\atanas.arshinkov\Desktop\carshop-api)
+2023-06-23 11:46:45.956 CarShopAPI | DEBUG | CarShopApiApplicationTests (56) - Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-23 11:46:45.956 CarShopAPI | INFO  | CarShopApiApplicationTests (631) - No active profile set, falling back to 1 default profile: "default"
+2023-06-23 11:46:48.798 CarShopAPI | INFO  | CarShopApiApplicationTests (61) - Started CarShopApiApplicationTests in 3.18 seconds (JVM running for 4.421)
+2023-06-23 12:12:43.976 CarShopAPI | INFO  | CarShopApiApplicationTests (55) - Starting CarShopApiApplicationTests using Java 1.8.0_271 on SBCPLDAR-2KL136 with PID 22424 (started by atanas.arshinkov in C:\Users\atanas.arshinkov\Desktop\carshop-api)
+2023-06-23 12:12:43.981 CarShopAPI | DEBUG | CarShopApiApplicationTests (56) - Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-23 12:12:43.983 CarShopAPI | INFO  | CarShopApiApplicationTests (631) - No active profile set, falling back to 1 default profile: "default"
+2023-06-23 12:12:47.256 CarShopAPI | INFO  | CarShopApiApplicationTests (61) - Started CarShopApiApplicationTests in 3.71 seconds (JVM running for 4.876)
+2023-06-23 12:15:51.237 CarShopAPI | INFO  | CarShopApiApplicationTests (55) - Starting CarShopApiApplicationTests using Java 1.8.0_271 on SBCPLDAR-2KL136 with PID 14924 (started by atanas.arshinkov in C:\Users\atanas.arshinkov\Desktop\carshop-api)
+2023-06-23 12:15:51.237 CarShopAPI | DEBUG | CarShopApiApplicationTests (56) - Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-23 12:15:51.237 CarShopAPI | INFO  | CarShopApiApplicationTests (631) - No active profile set, falling back to 1 default profile: "default"
+2023-06-23 12:15:53.785 CarShopAPI | INFO  | CarShopApiApplicationTests (61) - Started CarShopApiApplicationTests in 2.865 seconds (JVM running for 4.025)
+2023-06-23 13:20:42.057 CarShopAPI | INFO  | CarShopApiApplicationTests (55) - Starting CarShopApiApplicationTests using Java 1.8.0_271 on SBCPLDAR-2KL136 with PID 16952 (started by atanas.arshinkov in C:\Users\atanas.arshinkov\Desktop\carshop-api)
+2023-06-23 13:20:42.059 CarShopAPI | DEBUG | CarShopApiApplicationTests (56) - Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-23 13:20:42.060 CarShopAPI | INFO  | CarShopApiApplicationTests (631) - No active profile set, falling back to 1 default profile: "default"
+2023-06-23 13:20:44.672 CarShopAPI | INFO  | CarShopApiApplicationTests (61) - Started CarShopApiApplicationTests in 2.99 seconds (JVM running for 4.435)
+2023-06-23 13:27:39.353 CarShopAPI | INFO  | CarShopApiApplicationTests (55) - Starting CarShopApiApplicationTests using Java 1.8.0_271 on SBCPLDAR-2KL136 with PID 13952 (started by atanas.arshinkov in C:\Users\atanas.arshinkov\Desktop\carshop-api)
+2023-06-23 13:27:39.353 CarShopAPI | DEBUG | CarShopApiApplicationTests (56) - Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-23 13:27:39.356 CarShopAPI | INFO  | CarShopApiApplicationTests (631) - No active profile set, falling back to 1 default profile: "default"
+2023-06-23 13:27:41.998 CarShopAPI | INFO  | CarShopApiApplicationTests (61) - Started CarShopApiApplicationTests in 2.938 seconds (JVM running for 4.099)
+2023-06-23 18:09:35.840 CarShopAPI | INFO  | CarShopApiApplicationTests (55) - Starting CarShopApiApplicationTests using Java 1.8.0_271 on SBCPLDAR-2KL136 with PID 23548 (started by atanas.arshinkov in C:\Users\atanas.arshinkov\Desktop\carshop-api)
+2023-06-23 18:09:35.843 CarShopAPI | DEBUG | CarShopApiApplicationTests (56) - Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-23 18:09:35.845 CarShopAPI | INFO  | CarShopApiApplicationTests (631) - No active profile set, falling back to 1 default profile: "default"
+2023-06-23 18:09:43.327 CarShopAPI | INFO  | CarShopApiApplicationTests (61) - Started CarShopApiApplicationTests in 8.276 seconds (JVM running for 12.07)
